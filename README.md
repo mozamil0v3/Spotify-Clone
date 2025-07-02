@@ -1,29 +1,29 @@
-# Spotify clone
+#  Spotify Clone
 
 This project was Created from local system.
 Created by Mozamil Khan.
 
-# 🎵 Spotify Clone
 
-A simple and clean frontend clone of the Spotify homepage created using **HTML** and **CSS**.  
+
+A simple and clean frontend clone of the Spotify homepage created using HTML and CSS.  
 This project was built to practice responsive layout design, component styling, and UI structure.
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![Spotify Clone Screenshot](Screenshot%202025-07-02%20150714.png)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5  
 - CSS3  
 
 ---
 
-## 📂 Features
+##  Features
 
 - Responsive layout for desktop  
 - Navigation bar with logo and menu  
@@ -32,7 +32,7 @@ This project was built to practice responsive layout design, component styling, 
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download or clone the repository:
    ```bash
